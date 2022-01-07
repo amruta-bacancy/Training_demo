@@ -1,0 +1,16 @@
+current directory: /home/amruta/message_me/vendor/bundle/ruby/2.7.0/gems/debug-1.4.0/ext/debug
+/usr/share/rvm/rubies/ruby-2.7.2/bin/ruby -I /usr/share/rvm/rubies/ruby-2.7.2/lib/ruby/site_ruby/2.7.0 -r ./siteconf20220106-23109-hj771m.rb extconf.rb
+creating Makefile
+
+current directory: /home/amruta/message_me/vendor/bundle/ruby/2.7.0/gems/debug-1.4.0/ext/debug
+make DESTDIR\= clean
+
+current directory: /home/amruta/message_me/vendor/bundle/ruby/2.7.0/gems/debug-1.4.0/ext/debug
+make DESTDIR\=
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/amruta/message_me/vendor/bundle/ruby/2.7.0/gems/debug-1.4.0/ext/debug
+make DESTDIR\= install
+/usr/bin/install -m 0755 debug.so ./.gem.20220106-23109-17z6ne8/debug
